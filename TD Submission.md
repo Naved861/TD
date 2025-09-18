@@ -1,8 +1,9 @@
 
 -----
 
-Candidate: Naved Khan
-Role: Business Growth Analyst
+#Candidate: Naved Khan
+
+#Role: Business Growth Analyst
 
 -----
 
@@ -199,6 +200,7 @@ Yes, the Pharma COO persona works well and is confirmed. We should focus more on
 My approach changed the campaign story by moving from a generic "we sell growth services" pitch to a more targeted, persona-first strategy. Instead of focusing on features, the new prompts connect with a CTO's interest in tech stack scalability or a COO's concern about regulatory risk. This shifts the conversation from a sales pitch to a consultation, quickly establishing authority and trust. The AI is not just a basic text generator; it has become a strategic tool for personalizing communication at scale, making each email feel like a one-on-one conversation.
 
 As a Growth Analyst, I would adopt a "Growth Scientist" mindset. Every campaign is an experiment. I begin by forming a hypothesis (for example, "Our CTA is too difficult for COOs"), then I use AI-augmented prompts to quickly create and launch a test. I would leverage the dashboard not only to report metrics but also to confirm or challenge my hypothesis. This creates a tight feedback loop: Hypothesize, Test, Analyze, Iterate. This mindset is about building a strong, smart growth engine, not just running campaigns. I believe that leadership is not just a position, but a practice of reflection and determination.
+
 
 
 
